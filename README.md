@@ -1,4 +1,4 @@
-# Exercism-Ruby-Track# Exercism-Ruby-Track
+# Exercism-Ruby-Track
 
 [![Progress](https://img.shields.io/badge/Progress-20%25-brightgreen)](https://exercism.org/profiles/Dotecbit)
 
